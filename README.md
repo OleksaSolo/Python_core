@@ -9,4 +9,3 @@ make notes and sort files in the specified directory. When adding or editing inf
 https://github.com/OleksaSolo/a_book
 
 
-
